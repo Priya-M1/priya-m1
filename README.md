@@ -13,6 +13,6 @@ I find it so rewarding to be able to bring a vision to life through the power of
 <!-- markdownlint-disable MD033 -->
 
 <p>Please feel free to reach me via LinkedIn  <br/>
-<a href="https://www.linkedin.com/in/priya-m/"><img src="./img/linkedin_icon.png" width="20"alt="LinkedIn Logo"/></a></p>
+<a href="https://www.linkedin.com/in/priya-m/" target="_blank"><img src="./img/linkedin_icon.png" width="20"alt="LinkedIn Logo/></a></p>
 
 <!-- markdownlint-enable MD033 -->
