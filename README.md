@@ -7,7 +7,7 @@ Hi there, I'm Priya</a>
 </p>
 <h3 align="center">
 I am a software developer based in the midlands.
-I find it so rewarding to be able to bring a vision to life through the power of code. As a recent School of Code graduate I hope to continue to build apps that are user focused, accessible, and simple to use.
+I find it rewarding to be able to bring a vision to life through the power of code. As a recent School of Code graduate I hope to continue to build software that is user-centric, accessible, and simple to use.
 </h3>
 <br/>
 <div align="center">
