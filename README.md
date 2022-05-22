@@ -3,7 +3,7 @@
 Hi there, I'm Priya</a>
 </h3>
 <p align="center">
-  <a href="https://github.com/Priya-M1/" target="_blank" rel="noreferrer"><img src="./img/img.png" alt="my banner"></a>
+  <a href="https://github.com/Priya-M1/" target="_blank" rel="noreferrer"><img src="./img/banner.png" alt="my banner"></a>
 </p>
 <h3 align="center">
 I am a software developer based in the midlands.
